@@ -80,6 +80,7 @@ img{
     height: 100px;
     width: 100px;
     border-radius: 50%;
+    margin-top: 10px;
 }
 
 img.img2{
@@ -120,5 +121,5 @@ a {
 }
 #About {
     background-color: #e2e8f0;
-    padding: 6px;
+    padding: 5px;
 }
